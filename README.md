@@ -36,10 +36,10 @@
 ### ➤ Projects
 <p align="center">
   <a href="https://github.com/mugillan82/syncroom">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mugillan82&repo=syncroom&theme=tokyonight&hide_border=true" />
+    <img src="https://img.shields.io/badge/Sync%20Room-Real--time%20file%20sharing-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="[erwinbot-repo-link]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mugillan82&repo=[erwinbot-repo-name]&theme=tokyonight&hide_border=true" />
+    <img src="https://img.shields.io/badge/ErwinBot-Discord%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
@@ -47,24 +47,17 @@
 
 ### ➤ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mugillan82&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugillan82&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mugillan82&show_icons=true&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mugillan82&theme=tokyonight&hide_border=true" width="70%"/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
 </p>
 
 <br/>
 
-### ➤ Trophies
+## ➤ Highlights
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mugillan82&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/badge/Placement%20Ready-2026-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=briefcase&logoColor=white" />
 </p>
-
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mugillan82&color=8A2BE2&style=flat-square&label=Profile+Views" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
