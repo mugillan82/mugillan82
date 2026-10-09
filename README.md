@@ -1,63 +1,121 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Mugillan%20M&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%26%20Tool%20Builder&descAlignY=55&descSize=20" width="100%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+things+that+don%27t+exist+yet;Web+Dev+%E2%80%A2+Automation+%E2%80%A2+AI+Tools;Currently+prepping+for+placements+%F0%9F%8E%AF" alt="Typing SVG" />
-</p>
+# MUGILLAN M
 
-<p align="center">
-  <a href="[portfolio-url]"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mugillan-m-468b953b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/mugillan82"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mugillan82/mugillan82/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/mugillan82/mugillan82/output/github-contribution-grid-snake.svg" />
-</picture>
+### AI & Data Science Engineer · Applied AI · Automation
 
-<br/>
+I build practical software that connects **AI, data, and automation** to solve real-world problems.
 
-### ➤ About Me
-- 🎓 College student, actively interviewing for tech placements
-- 💻 Focused on web development and building practical tools/bots
-- 🌱 Sharpening Python + problem-solving for coding assessments
-- ⚡ I like turning small ideas into working apps fast
-
-<br/>
-
-### ➤ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,discord" />
-</p>
-
-<br/>
-
-### ➤ Projects
-<p align="center">
-  <a href="https://github.com/mugillan82/syncroom">
-    <img src="https://img.shields.io/badge/Sync%20Room-Real--time%20file%20sharing-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+<p>
+  <a href="https://github.com/mave2123">
+    <img src="https://img.shields.io/badge/GitHub-mave2123-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
-  <a href="[erwinbot-repo-link]">
-    <img src="https://img.shields.io/badge/ErwinBot-Discord%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="mailto:mugillanlb2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/mugillan-m-468b953b7">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-<br/>
+📍 Puducherry, India &nbsp; · &nbsp; 🎓 B.Tech, Artificial Intelligence and Data Science
 
-### ➤ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mugillan82&show_icons=true&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
-</p>
+</div>
 
-<br/>
+---
 
-## ➤ Highlights
-<p align="center">
-  <img src="https://img.shields.io/badge/Placement%20Ready-2026-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=briefcase&logoColor=white" />
-</p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+## About me
+
+I'm a final-year B.Tech student in **Artificial Intelligence and Data Science** at Achariya College of Engineering Technology. I enjoy building end-to-end applications that combine data processing, intelligent systems, automation, and usable interfaces.
+
+- 🤖 Exploring **AI agents, prompt engineering, and applied machine learning**
+- 📊 Building data-driven applications with Python, Streamlit, and SQL
+- ⚙️ Interested in workflow automation, APIs, and practical software engineering
+- 🧪 Focused on measurable results, reliable systems, and continuous learning
+
+> My approach: build something useful, measure whether it works, and improve it with evidence.
+
+## Featured projects
+
+### 1. LedgerLens — AI-Powered Financial Reconciliation
+
+A reconciliation platform that matches bank and payment-gateway transactions and helps surface discrepancies.
+
+- Implemented exact and ML-assisted transaction matching.
+- Added Logistic Regression, ground-truth validation, match explanations, reason codes, and reconciliation exception analysis.
+- Evaluated on **488 bank records and 490 gateway records**, reporting **97.54% accuracy, 98.31% precision, and 98.73% recall** in the evaluated workflow.
+
+**Tech:** Python · Streamlit · Pandas · Scikit-learn · Data Analysis
+
+- [Live demo](https://ledgerlens-0.streamlit.app/)
+- [Source repository](https://github.com/mugillan82/ledgerlens)
+
+### 2. IoT-Based Smart Safety Helmet
+
+An IoT-enabled safety concept designed to detect hazardous gases and temperature variations in industrial environments.
+
+- Integrated Arduino sensors for environmental monitoring.
+- Connected sensor readings to a web dashboard for hazard visibility, remote tracking, and alerts.
+
+**Tech:** Arduino UNO · Sensors · IoT · Web Dashboard
+
+### 3. Sync Room — Real-Time File Transfer Web Application
+
+A web application for high-speed, synchronized online file transfer and storage.
+
+- Implemented file-transfer workflows with attention to scalability, security, and usability.
+
+**Tech:** Web Development · File Handling · Networking Concepts
+
+### 4. ErwinBot — Discord Bot
+
+A modular Discord bot for server management and user interaction.
+
+- Implemented structured commands and error handling.
+- Organized features into maintainable modules.
+
+**Tech:** Python · Discord API · Automation
+
+---
+
+## Technical toolkit
+
+| Area | Tools and technologies |
+|---|---|
+| Programming | Python, HTML, JavaScript |
+| AI & Machine Learning | Machine Learning, Logistic Regression, Prompt Engineering |
+| Data | Pandas, Streamlit, SQL, Relational Databases |
+| Web Development | Flask, Full-Stack Development |
+| IoT & Embedded | Arduino UNO, IoT sensors, Embedded Systems |
+| Automation | UiPath, Antigravity |
+| Developer Tools | Git, GitHub |
+
+## Certifications & learning
+
+- Prompt Engineering for ChatGPT — Vanderbilt University / Coursera
+- Excel Automation with Modern Experience in UiPath
+- Foundation of Prompt Engineering
+- SQL and Relational Databases 101
+- Service Marketing
+
+## Experience
+
+**Data Analytics Intern — Python** · 2025
+
+- Worked on Python-based data analysis and practical analytics workflows.
+
+## What I'm working toward
+
+I'm strengthening my skills in applied AI and agentic automation by focusing on systems that can use tools, process information reliably, and demonstrate their results. I value clear architecture, reproducible testing, and projects that solve a specific problem.
+
+## Connect
+
+- **Email:** [mugillanlb2@gmail.com](mailto:mugillanlb2@gmail.com)
+- **GitHub:** [@mave2123](https://github.com/mave2123)
+- **LinkedIn:** [Mugillan M](https://www.linkedin.com/in/mugillan-m-468b953b7)
+
+---
+
+<div align="center">
+  <sub>Thanks for visiting my profile. Feel free to explore the projects and connect.</sub>
+</div>
